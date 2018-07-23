@@ -1,1 +1,5 @@
-# MachineLearning-Basics
+
+
+Machine Learning methods are based on probability theory and statistics. This project concerns probability distributions of several variables. We will use Python to evaluate sufficient statistics: mean and variance of univariate distributions and covariance and correlation coefficient of pairs of variables. We will then use these statistics to construct compact representations of joint probability distributions known as Bayesian networks. Then we will evaluate the goodness of these representations by using the concept of likelihood. Finally we will use the Bayesian networks to answer some queries.
+
+For this project, students are required to submit a project report and the complete Python code they write to generate the results. Students are encouraged to try and implement all kinds of numerical and statistical experiments and show interesting findings using plots or tables. It is also encouraged to include numerical programming tricks in the report. Students are free to reference any methods or formulas in the project description. Students should highlight the creative parts in their report and not repeat what is already in the project description. Students will get bonus points if it is shown that they have done some innovative work.
